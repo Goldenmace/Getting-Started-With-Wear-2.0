@@ -1,4 +1,5 @@
 apply plugin: 'com.android.application'
+apply plugin: 'kotlin-android'
 
 android {
     compileSdkVersion 28
@@ -28,4 +29,8 @@ dependencies {
     implementation 'com.android.support.constraint:constraint-layout:1.1.2'
     compileOnly 'com.google.android.wearable:wearable:2.3.0'
     implementation 'de.greenrobot:eventbus:2.4.0'
+    implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk7:$kotlin_version"
+}
+repositories {
+    mavenCentral()
 }
