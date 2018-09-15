@@ -1,5 +1,5 @@
 # Getting-Started-With-Wear-2.0
-Repository for sample recycler view in wear
+Repository for sample wear application with circuler list view
 
 ![1]
 
