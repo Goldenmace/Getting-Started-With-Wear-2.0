@@ -1,6 +1,6 @@
 # Getting-Started-With-Wear-2.0
-Repository for two way communication between wear and mobile
+Repository for sample recycler view in wear
 
 ![1]
 
-[1]: ./video2gif_20180914_173220.gif
+[1]: ./video2gif_20180907_171208-min.gif
